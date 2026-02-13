@@ -1,1 +1,1 @@
-# webprog-it242-react-flask-supabas
+# webprog-it242-react-flask-supabase
